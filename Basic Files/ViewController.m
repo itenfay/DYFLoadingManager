@@ -34,7 +34,6 @@
 
 - (IBAction)showInView:(id)sender {
     [DYFLoadingManager.shared setDimBackground:YES];
-    
     UIImage *image = [UIImage imageNamed:@"tencentv_logo"];
     [DYFLoadingManager.shared setCentralImage:image];
     
