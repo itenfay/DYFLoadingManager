@@ -84,7 +84,7 @@
 - (BOOL)hasLoading;
 
 /**
- Shows loading in super view.
+ Shows loading in the super view.
  */
 - (void)showLoading;
 
@@ -94,7 +94,7 @@
 - (void)showLoadingInView:(UIView *)view;
 
 /**
- Hides and removes loading from super view.
+ Hides and removes loading from the super view.
  */
 - (void)hideLoading;
 
