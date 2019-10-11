@@ -4,17 +4,20 @@
 
 ## DYFLoadingManager
 
-`DYFLoadingManager`是一个iOS加载动画提示的管理类，它显示带有指示器和/或标签的半透明遮罩直到任务完成。( `DYFLoadingManager` is an iOS management class that loads animation prompts. It displays a translucent mask with an indicator and labels while work is being done. )
+&emsp; `DYFLoadingManager`是一个 iOS 加载动画提示的管理类，它显示带有指示器和/或标签的半透明遮罩直到任务完成。( `DYFLoadingManager` is an iOS management class that loads animation prompts, it displays a translucent mask with an indicator and labels while work is being done. )
 
 ## 技术交流群(群号:155353383) 
 
-欢迎加入技术交流群，一起探讨技术问题。<br />
-![](https://github.com/dgynfi/DYFLoadingManager/raw/master/images/qq155353383.jpg)
+- 欢迎加入技术交流群，一起探讨技术问题。
+
+<div align=left>
+&emsp; <img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/qq155353383.jpg" width="20%" />
+</div>
 
 ## 效果图
 
 <div align=left>
-<img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/LoadingPreview.gif" width="40%" />
+&emsp; <img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/LoadingPreview.gif" width="30%" />
 </div>
 
 ## 使用说明
@@ -42,6 +45,7 @@
 ```ObjC
 - (IBAction)showInView:(id)sender {
     [DYFLoadingManager.shared setDimBackground:YES];
+    
     UIImage *image = [UIImage imageNamed:@"tencentv_logo"];
     [DYFLoadingManager.shared setCentralImage:image];
 
