@@ -1,31 +1,29 @@
-## [英文文档（English Document）](README-en.md)
-
-
-如果此项目能帮助到你，就请你给[一颗星](https://github.com/dgynfi/DYFLoadingManager)。谢谢！
-
-
 ## DYFLoadingManager
 
-`DYFLoadingManager`是一个 iOS 加载动画提示的管理类，它显示带有指示器和/或标签的半透明遮罩直到任务完成。
+`DYFLoadingManager` is an iOS management class that loads animation prompts, it displays a translucent mask with an indicator and labels while work is being done.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)&nbsp;
 
+[Chinese Instructions (中文说明)](README-zh.md)
 
-## QQ群 (ID:614799921)
+
+## Group (ID:614799921)
 
 <div align=left>
 &emsp; <img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/g614799921.jpg" width="30%" />
 </div>
 
-## 预览
+
+## Preview
 
 <div align=left>
 &emsp; <img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/LoadingPreview.gif" width="30%" />
 </div>
 
-## 使用
 
--  展示加载提示
+## Usage
+
+-  Show Loading
 
 ```
 - (IBAction)show:(id)sender {
@@ -43,7 +41,7 @@
 }
 ```
 
-- 在一个视图中展示加载提示
+- Show Loading in a view
 
 ```
 - (IBAction)showInView:(id)sender {
@@ -63,7 +61,7 @@
 }
 ```
 
-- 隐藏加载提示
+- Hide Loading
 
 ```
 - (void)hideAfterDelay:(NSTimeInterval)delay {
@@ -78,11 +76,12 @@
 ```
 
 
-## 演示
+## Demo
 
-如需了解更多，请查看[Demo](https://github.com/dgynfi/DYFLoadingManager/blob/master/Basic%20Files/ViewController.m)。
+To learn more, please check out [Demo](https://github.com/dgynfi/DYFLoadingManager/blob/master/Basic%20Files/ViewController.m).
 
 
-## 欢迎反馈
+## Feedback is welcome
 
-如果你注意到任何问题，被卡住或只是想聊天，请随意创建一个问题。我很乐意帮助你。
+If you notice any issue, got stuck or just want to chat feel free to create an issue. I will be happy to help you.
+
