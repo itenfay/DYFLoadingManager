@@ -6,20 +6,17 @@
 
 [Chinese Instructions (中文说明)](README-zh.md)
 
-
 ## Group (ID:614799921)
 
 <div align=left>
-&emsp; <img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/g614799921.jpg" width="30%" />
+&emsp; <img src="https://github.com/chenxing640/DYFLoadingManager/raw/master/images/g614799921.jpg" width="30%" />
 </div>
-
 
 ## Preview
 
 <div align=left>
-&emsp; <img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/LoadingPreview.gif" width="30%" />
+&emsp; <img src="https://github.com/chenxing640/DYFLoadingManager/raw/master/images/LoadingPreview.gif" width="30%" />
 </div>
-
 
 ## Usage
 
@@ -75,13 +72,10 @@
 }
 ```
 
-
 ## Demo
 
-To learn more, please check out [Demo](https://github.com/dgynfi/DYFLoadingManager/blob/master/Basic%20Files/ViewController.m).
-
+To learn more, please check out [Demo](https://github.com/chenxing640/DYFLoadingManager/blob/master/Basic%20Files/ViewController.m).
 
 ## Feedback is welcome
 
-If you notice any issue, got stuck or just want to chat feel free to create an issue. I will be happy to help you.
-
+If you notice any issue, got stuck to create an issue. I will be happy to help you.
