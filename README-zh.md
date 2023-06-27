@@ -4,20 +4,17 @@
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)&nbsp;
 
-
 ## QQ群 (ID:614799921)
 
 <div align=left>
-&emsp; <img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/g614799921.jpg" width="30%" />
+&emsp; <img src="https://github.com/chenxing640/DYFLoadingManager/raw/master/images/g614799921.jpg" width="30%" />
 </div>
-
 
 ## 预览
 
 <div align=left>
-&emsp; <img src="https://github.com/dgynfi/DYFLoadingManager/raw/master/images/LoadingPreview.gif" width="30%" />
+&emsp; <img src="https://github.com/chenxing640/DYFLoadingManager/raw/master/images/LoadingPreview.gif" width="30%" />
 </div>
-
 
 ## 使用
 
@@ -73,13 +70,10 @@
 }
 ```
 
-
 ## 演示
 
-如需了解更多，请查看[Demo](https://github.com/dgynfi/DYFLoadingManager/blob/master/Basic%20Files/ViewController.m)。
-
+如需了解更多，请查看[Demo](https://github.com/chenxing640/DYFLoadingManager/blob/master/Basic%20Files/ViewController.m)。
 
 ## 欢迎反馈
 
-如果你注意到任何问题，被卡住或只是想聊天，请随意创建一个问题。我很乐意帮助你。
-
+如果你注意到任何问题被卡住，请创建一个问题。我很乐意帮助你。
